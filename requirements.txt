@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+streamlit
+folium
+streamlit-folium
+matplotlib
+requests

@@ -1,0 +1,3 @@
+East - uvicorn east:app --port 8000 --reload
+West - uvicorn west:app --port 9000 --reload
+Central - uvicorn central:app --port 10000 --reload
