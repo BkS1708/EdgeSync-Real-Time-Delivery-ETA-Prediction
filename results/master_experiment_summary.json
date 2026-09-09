@@ -1,0 +1,108 @@
+{
+  "timestamp": 1787490684.7966404,
+  "machine_info": {
+    "python_version": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+    "os_platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 170 Stepping 4, GenuineIntel",
+    "cpu_count": 22,
+    "pytorch_version": "2.13.0+cpu",
+    "cuda_available": false
+  },
+  "seed": 42,
+  "gossip_experiment": {
+    "experiment": "gossip_convergence",
+    "convergence_achieved": true,
+    "convergence_time_seconds": 2.6,
+    "final_state_east": 20.852116962612246,
+    "final_state_west": 20.852116962612246,
+    "final_state_central": 20.852116962612246,
+    "final_divergence": 0.0
+  },
+  "latency_experiment": {
+    "intra_stats": {
+      "count": 31,
+      "min": 2024.034,
+      "max": 2086.535,
+      "mean": 2053.075,
+      "median": 2049.604,
+      "stddev": 17.591,
+      "p50": 2049.604,
+      "p90": 2079.244,
+      "p95": 2084.36,
+      "p99": 2086.535,
+      "ci_95_low": 2046.882,
+      "ci_95_high": 2059.267
+    },
+    "cross_stats": {
+      "count": 69,
+      "min": 4040.856,
+      "max": 4134.509,
+      "mean": 4070.915,
+      "median": 4070.514,
+      "stddev": 17.884,
+      "p50": 4070.514,
+      "p90": 4092.068,
+      "p95": 4097.389,
+      "p99": 4134.509,
+      "ci_95_low": 4066.696,
+      "ci_95_high": 4075.135
+    },
+    "central_stats": {
+      "count": 100,
+      "min": 2021.473,
+      "max": 4110.763,
+      "mean": 3479.119,
+      "median": 4054.998,
+      "stddev": 920.766,
+      "p50": 4054.998,
+      "p90": 4078.973,
+      "p95": 4085.549,
+      "p99": 4106.888,
+      "ci_95_low": 3298.649,
+      "ci_95_high": 3659.589
+    }
+  },
+  "scalability_experiment": {
+    "concurrency": [
+      1,
+      5,
+      10,
+      20
+    ],
+    "throughput_rps": [
+      0.25,
+      1.24,
+      2.97,
+      4.92
+    ],
+    "p95_ms": [
+      4045.746,
+      4043.325,
+      4042.04,
+      4073.323
+    ]
+  },
+  "fault_experiment": {
+    "experiment": "fault_tolerance",
+    "total_requests": 100,
+    "successful_requests": 0,
+    "failed_requests": 100,
+    "availability_percentage": 0.0
+  },
+  "ablation_experiment": {
+    "labels": [
+      "Full EdgeSync",
+      "Ablation 1: Partitioning OFF (Single Node)",
+      "Ablation 2: Cross-Delegation OFF (Local Math)",
+      "Ablation 3: Gossip Synchronization Disabled",
+      "Ablation 4: Dynamic Traffic Model Disabled"
+    ],
+    "p95_ms": [
+      2038.634,
+      2035.54,
+      2038.137,
+      2036.5,
+      2038.661
+    ]
+  }
+}

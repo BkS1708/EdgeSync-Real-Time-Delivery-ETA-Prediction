@@ -1,0 +1,61 @@
+request_id,architecture,region_type,success,total_latency_ms,system_latency_ms,domain_latency_ms,network_latency_ms
+req_0001,Centralized,centralized,True,3.126,0.041,0.041,0.0
+req_0002,Centralized,centralized,True,2.635,0.053,0.053,0.0
+req_0003,Centralized,centralized,True,27.921,0.069,0.069,0.0
+req_0004,Centralized,centralized,True,26.925,0.073,0.073,0.0
+req_0005,Centralized,centralized,True,15.171,0.066,0.066,0.0
+req_0006,Centralized,centralized,True,4.557,0.052,0.052,0.0
+req_0007,Centralized,centralized,True,2.794,0.042,0.042,0.0
+req_0008,Centralized,centralized,True,23.115,0.079,0.079,0.0
+req_0009,Centralized,centralized,True,3.829,0.074,0.074,0.0
+req_0010,Centralized,centralized,True,5.064,0.065,0.065,0.0
+req_0011,Centralized,centralized,True,3.724,0.055,0.055,0.0
+req_0012,Centralized,centralized,True,3.049,0.044,0.044,0.0
+req_0013,Centralized,centralized,True,14.965,0.05,0.05,0.0
+req_0014,Centralized,centralized,True,15.362,0.077,0.077,0.0
+req_0015,Centralized,centralized,True,15.302,0.077,0.077,0.0
+req_0016,Centralized,centralized,True,15.587,0.056,0.056,0.0
+req_0017,Centralized,centralized,True,2.585,0.051,0.051,0.0
+req_0018,Centralized,centralized,True,29.062,0.094,0.094,0.0
+req_0019,Centralized,centralized,True,2.822,0.068,0.068,0.0
+req_0020,Centralized,centralized,True,1.961,0.061,0.061,0.0
+req_0001,EdgeSync Local,local,True,15.405,0.055,0.055,0.0
+req_0002,EdgeSync Local,local,True,14.548,0.04,0.04,0.0
+req_0003,EdgeSync Local,local,True,16.622,0.139,0.139,0.0
+req_0004,EdgeSync Local,local,True,16.069,0.046,0.046,0.0
+req_0005,EdgeSync Local,local,True,3.081,0.051,0.051,0.0
+req_0006,EdgeSync Local,local,True,26.649,0.095,0.095,0.0
+req_0007,EdgeSync Local,local,True,15.476,0.108,0.108,0.0
+req_0008,EdgeSync Local,local,True,3.659,0.064,0.064,0.0
+req_0009,EdgeSync Local,local,True,26.484,0.07,0.07,0.0
+req_0010,EdgeSync Local,local,True,3.002,0.099,0.099,0.0
+req_0011,EdgeSync Local,local,True,2.473,0.047,0.047,0.0
+req_0012,EdgeSync Local,local,True,24.581,0.073,0.073,0.0
+req_0013,EdgeSync Local,local,True,3.762,0.045,0.045,0.0
+req_0014,EdgeSync Local,local,True,25.764,0.082,0.082,0.0
+req_0015,EdgeSync Local,local,True,2.705,0.076,0.076,0.0
+req_0016,EdgeSync Local,local,True,2.861,0.037,0.037,0.0
+req_0017,EdgeSync Local,local,True,26.223,0.101,0.101,0.0
+req_0018,EdgeSync Local,local,True,3.379,0.068,0.068,0.0
+req_0019,EdgeSync Local,local,True,25.661,0.067,0.067,0.0
+req_0020,EdgeSync Local,local,True,17.676,0.129,0.129,0.0
+req_0001,EdgeSync Cross-Region,cross_region,True,30.756,0.066,0.066,27.057
+req_0002,EdgeSync Cross-Region,cross_region,True,17.048,0.046,0.046,3.13
+req_0003,EdgeSync Cross-Region,cross_region,True,27.903,0.074,0.074,0.0
+req_0004,EdgeSync Cross-Region,cross_region,True,15.741,0.066,0.066,0.0
+req_0005,EdgeSync Cross-Region,cross_region,True,3.955,0.108,0.108,0.0
+req_0006,EdgeSync Cross-Region,cross_region,True,6.741,0.079,0.079,3.346
+req_0007,EdgeSync Cross-Region,cross_region,True,36.816,0.119,0.119,17.231
+req_0008,EdgeSync Cross-Region,cross_region,True,21.084,0.06,0.06,6.578
+req_0009,EdgeSync Cross-Region,cross_region,True,6.575,0.047,0.047,3.015
+req_0010,EdgeSync Cross-Region,cross_region,True,3.083,0.105,0.105,0.0
+req_0011,EdgeSync Cross-Region,cross_region,True,29.794,0.055,0.055,26.327
+req_0012,EdgeSync Cross-Region,cross_region,True,31.003,0.048,0.048,28.16
+req_0013,EdgeSync Cross-Region,cross_region,True,17.079,0.059,0.059,3.638
+req_0014,EdgeSync Cross-Region,cross_region,True,30.405,0.117,0.117,3.673
+req_0015,EdgeSync Cross-Region,cross_region,True,7.742,0.105,0.105,3.876
+req_0016,EdgeSync Cross-Region,cross_region,True,7.063,0.064,0.064,2.969
+req_0017,EdgeSync Cross-Region,cross_region,True,6.812,0.049,0.049,2.775
+req_0018,EdgeSync Cross-Region,cross_region,True,6.202,0.046,0.046,2.619
+req_0019,EdgeSync Cross-Region,cross_region,True,5.983,0.065,0.065,2.716
+req_0020,EdgeSync Cross-Region,cross_region,True,24.514,0.138,0.138,0.0

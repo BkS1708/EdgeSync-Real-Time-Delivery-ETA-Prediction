@@ -1,0 +1,10 @@
+scenario,mean_state_divergence_before,mean_state_divergence_after,mean_convergence_time_ms,full_convergence_achieved,missing_observations,duplicate_observations
+scenario_0_baseline,0.0,0.0,0.0,True,0,0
+scenario_1_peer_crash,0.0,0.0,0.0,True,0,0
+scenario_2_peer_unavailable,0.0,0.0,0.0,True,0,0
+scenario_3_network_partition,50.0,0.0,0.0,True,0,0
+scenario_4_loss_1pct,0.0,0.0,0.0,True,0,0
+scenario_4_loss_5pct,0.0,0.0,0.0,True,0,0
+scenario_4_loss_10pct,0.0,0.0,0.0,True,0,0
+scenario_5_partition_recovery,50.0,0.0,400.0,True,0,0
+scenario_6_node_recovery,50.0,0.0,400.0,True,0,0

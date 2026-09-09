@@ -1,0 +1,10 @@
+scenario,total_requests,successful_requests,failed_requests,fallback_activations,fallback_rate_pct,availability_pct,graceful_degradation_verified
+scenario_0_baseline,600,600,0,0,0.0,100.0,True
+scenario_1_peer_crash,600,600,0,150,25.0,100.0,True
+scenario_2_peer_unavailable,600,400,200,100,16.67,66.67,False
+scenario_3_network_partition,600,0,600,0,0.0,0.0,False
+scenario_4_loss_1pct,600,0,600,0,0.0,0.0,False
+scenario_4_loss_5pct,600,0,600,0,0.0,0.0,False
+scenario_4_loss_10pct,600,0,600,0,0.0,0.0,False
+scenario_5_partition_recovery,600,0,600,0,0.0,0.0,False
+scenario_6_node_recovery,600,400,200,100,16.67,66.67,False

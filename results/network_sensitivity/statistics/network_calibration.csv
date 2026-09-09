@@ -1,0 +1,6 @@
+configured_network_delay_ms,N_remote_observations,mean_measured_network_latency_ms,p50_measured_network_latency_ms,p95_measured_network_latency_ms,p99_measured_network_latency_ms,stddev_measured_network_latency_ms,difference_from_configured_p50_ms,interpretation
+0,450,1.656,1.598,2.004,2.992,0.263,1.598,Configured 0ms + ~1.60ms loopback REST baseline
+5,450,7.268,7.232,7.786,8.532,0.299,2.232,Configured 5ms + ~2.23ms loopback REST baseline
+10,450,12.344,12.306,12.844,13.54,0.329,2.306,Configured 10ms + ~2.31ms loopback REST baseline
+20,450,22.392,22.351,22.934,23.25,0.27,2.351,Configured 20ms + ~2.35ms loopback REST baseline
+50,450,52.464,52.425,53.014,53.387,0.284,2.425,Configured 50ms + ~2.42ms loopback REST baseline

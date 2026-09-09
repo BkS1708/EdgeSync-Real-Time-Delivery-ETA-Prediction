@@ -1,0 +1,301 @@
+trial_id,request_id,architecture,region_type,success,total_latency_ms,system_latency_ms,network_latency_ms,domain_latency_ms,timestamp,workload_hash
+trial_3,req_0001,Centralized,centralized,True,1.451,0.09,0.0,0.09,1787629512.306,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0002,Centralized,centralized,True,1.419,0.09,0.0,0.09,1787629512.307,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0003,Centralized,centralized,True,1.417,0.086,0.0,0.086,1787629512.309,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0004,Centralized,centralized,True,1.163,0.093,0.0,0.093,1787629512.31,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0005,Centralized,centralized,True,1.24,0.087,0.0,0.087,1787629512.311,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0006,Centralized,centralized,True,1.255,0.086,0.0,0.086,1787629512.312,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0007,Centralized,centralized,True,1.221,0.103,0.0,0.103,1787629512.313,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0008,Centralized,centralized,True,1.192,0.086,0.0,0.086,1787629512.315,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0009,Centralized,centralized,True,1.626,0.175,0.0,0.175,1787629512.316,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0010,Centralized,centralized,True,1.679,0.106,0.0,0.106,1787629512.318,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0011,Centralized,centralized,True,1.67,0.164,0.0,0.164,1787629512.32,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0012,Centralized,centralized,True,1.724,0.098,0.0,0.098,1787629512.321,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0013,Centralized,centralized,True,1.396,0.102,0.0,0.102,1787629512.323,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0014,Centralized,centralized,True,1.183,0.096,0.0,0.096,1787629512.324,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0015,Centralized,centralized,True,1.223,0.092,0.0,0.092,1787629512.325,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0016,Centralized,centralized,True,1.161,0.094,0.0,0.094,1787629512.326,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0017,Centralized,centralized,True,1.203,0.123,0.0,0.123,1787629512.328,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0018,Centralized,centralized,True,1.258,0.089,0.0,0.089,1787629512.329,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0019,Centralized,centralized,True,1.575,0.088,0.0,0.088,1787629512.331,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0020,Centralized,centralized,True,1.271,0.087,0.0,0.087,1787629512.332,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0021,Centralized,centralized,True,1.748,0.134,0.0,0.134,1787629512.334,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0022,Centralized,centralized,True,1.468,0.094,0.0,0.094,1787629512.335,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0023,Centralized,centralized,True,1.384,0.093,0.0,0.093,1787629512.336,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0024,Centralized,centralized,True,1.3,0.092,0.0,0.092,1787629512.338,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0025,Centralized,centralized,True,1.356,0.085,0.0,0.085,1787629512.339,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0026,Centralized,centralized,True,1.596,0.113,0.0,0.113,1787629512.341,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0027,Centralized,centralized,True,1.363,0.162,0.0,0.162,1787629512.342,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0028,Centralized,centralized,True,1.388,0.083,0.0,0.083,1787629512.343,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0029,Centralized,centralized,True,1.298,0.083,0.0,0.083,1787629512.345,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0030,Centralized,centralized,True,1.855,0.107,0.0,0.107,1787629512.347,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0031,Centralized,centralized,True,2.241,0.11,0.0,0.11,1787629512.349,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0032,Centralized,centralized,True,2.462,0.379,0.0,0.379,1787629512.351,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0033,Centralized,centralized,True,2.096,0.222,0.0,0.222,1787629512.353,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0034,Centralized,centralized,True,1.541,0.15,0.0,0.15,1787629512.355,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0035,Centralized,centralized,True,1.634,0.167,0.0,0.167,1787629512.357,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0036,Centralized,centralized,True,1.52,0.157,0.0,0.157,1787629512.358,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0037,Centralized,centralized,True,1.431,0.095,0.0,0.095,1787629512.36,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0038,Centralized,centralized,True,1.406,0.153,0.0,0.153,1787629512.361,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0039,Centralized,centralized,True,1.32,0.087,0.0,0.087,1787629512.362,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0040,Centralized,centralized,True,1.617,0.095,0.0,0.095,1787629512.364,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0041,Centralized,centralized,True,1.519,0.093,0.0,0.093,1787629512.366,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0042,Centralized,centralized,True,1.702,0.095,0.0,0.095,1787629512.367,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0043,Centralized,centralized,True,1.498,0.179,0.0,0.179,1787629512.369,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0044,Centralized,centralized,True,1.229,0.09,0.0,0.09,1787629512.37,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0045,Centralized,centralized,True,1.466,0.089,0.0,0.089,1787629512.371,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0046,Centralized,centralized,True,1.448,0.235,0.0,0.235,1787629512.373,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0047,Centralized,centralized,True,1.459,0.164,0.0,0.164,1787629512.374,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0048,Centralized,centralized,True,1.239,0.088,0.0,0.088,1787629512.376,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0049,Centralized,centralized,True,1.293,0.089,0.0,0.089,1787629512.377,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0050,Centralized,centralized,True,1.38,0.086,0.0,0.086,1787629512.378,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0051,Centralized,centralized,True,1.203,0.088,0.0,0.088,1787629512.38,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0052,Centralized,centralized,True,1.202,0.092,0.0,0.092,1787629512.381,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0053,Centralized,centralized,True,1.29,0.089,0.0,0.089,1787629512.382,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0054,Centralized,centralized,True,1.428,0.098,0.0,0.098,1787629512.384,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0055,Centralized,centralized,True,1.676,0.107,0.0,0.107,1787629512.385,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0056,Centralized,centralized,True,1.367,0.089,0.0,0.089,1787629512.387,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0057,Centralized,centralized,True,1.358,0.094,0.0,0.094,1787629512.388,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0058,Centralized,centralized,True,1.269,0.174,0.0,0.174,1787629512.389,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0059,Centralized,centralized,True,1.257,0.087,0.0,0.087,1787629512.391,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0060,Centralized,centralized,True,1.172,0.089,0.0,0.089,1787629512.392,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0061,Centralized,centralized,True,1.166,0.09,0.0,0.09,1787629512.393,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0062,Centralized,centralized,True,1.643,0.147,0.0,0.147,1787629512.395,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0063,Centralized,centralized,True,1.283,0.098,0.0,0.098,1787629512.396,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0064,Centralized,centralized,True,1.253,0.085,0.0,0.085,1787629512.397,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0065,Centralized,centralized,True,1.212,0.092,0.0,0.092,1787629512.398,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0066,Centralized,centralized,True,1.26,0.179,0.0,0.179,1787629512.4,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0067,Centralized,centralized,True,1.385,0.095,0.0,0.095,1787629512.401,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0068,Centralized,centralized,True,1.237,0.119,0.0,0.119,1787629512.402,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0069,Centralized,centralized,True,1.76,0.102,0.0,0.102,1787629512.404,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0070,Centralized,centralized,True,1.517,0.097,0.0,0.097,1787629512.405,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0071,Centralized,centralized,True,1.334,0.093,0.0,0.093,1787629512.407,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0072,Centralized,centralized,True,1.176,0.088,0.0,0.088,1787629512.408,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0073,Centralized,centralized,True,1.365,0.085,0.0,0.085,1787629512.409,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0074,Centralized,centralized,True,1.333,0.146,0.0,0.146,1787629512.411,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0075,Centralized,centralized,True,1.918,0.176,0.0,0.176,1787629512.413,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0076,Centralized,centralized,True,1.392,0.09,0.0,0.09,1787629512.414,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0077,Centralized,centralized,True,1.853,0.198,0.0,0.198,1787629512.416,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0078,Centralized,centralized,True,1.473,0.107,0.0,0.107,1787629512.417,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0079,Centralized,centralized,True,1.223,0.088,0.0,0.088,1787629512.419,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0080,Centralized,centralized,True,1.463,0.086,0.0,0.086,1787629512.42,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0081,Centralized,centralized,True,1.283,0.084,0.0,0.084,1787629512.421,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0082,Centralized,centralized,True,1.364,0.083,0.0,0.083,1787629512.423,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0083,Centralized,centralized,True,1.484,0.093,0.0,0.093,1787629512.424,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0084,Centralized,centralized,True,1.345,0.098,0.0,0.098,1787629512.426,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0085,Centralized,centralized,True,1.432,0.163,0.0,0.163,1787629512.427,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0086,Centralized,centralized,True,1.367,0.093,0.0,0.093,1787629512.428,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0087,Centralized,centralized,True,1.314,0.094,0.0,0.094,1787629512.43,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0088,Centralized,centralized,True,1.283,0.085,0.0,0.085,1787629512.431,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0089,Centralized,centralized,True,1.316,0.091,0.0,0.091,1787629512.432,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0090,Centralized,centralized,True,1.532,0.108,0.0,0.108,1787629512.434,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0091,Centralized,centralized,True,1.395,0.09,0.0,0.09,1787629512.435,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0092,Centralized,centralized,True,1.495,0.088,0.0,0.088,1787629512.437,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0093,Centralized,centralized,True,1.288,0.089,0.0,0.089,1787629512.438,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0094,Centralized,centralized,True,1.313,0.1,0.0,0.1,1787629512.439,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0095,Centralized,centralized,True,1.28,0.092,0.0,0.092,1787629512.441,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0096,Centralized,centralized,True,1.328,0.109,0.0,0.109,1787629512.442,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0097,Centralized,centralized,True,1.307,0.169,0.0,0.169,1787629512.443,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0098,Centralized,centralized,True,1.262,0.091,0.0,0.091,1787629512.445,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0099,Centralized,centralized,True,1.569,0.086,0.0,0.086,1787629512.446,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0100,Centralized,centralized,True,1.396,0.093,0.0,0.093,1787629512.448,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0001,EdgeSync Local,local,True,1.713,0.107,0.0,0.107,1787629512.748,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0002,EdgeSync Local,local,True,1.915,0.142,0.0,0.142,1787629512.75,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0003,EdgeSync Local,local,True,1.65,0.15,0.0,0.15,1787629512.751,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0004,EdgeSync Local,local,True,1.52,0.12,0.0,0.12,1787629512.753,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0005,EdgeSync Local,local,True,1.962,0.122,0.0,0.122,1787629512.755,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0006,EdgeSync Local,local,True,1.423,0.103,0.0,0.103,1787629512.756,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0007,EdgeSync Local,local,True,1.434,0.094,0.0,0.094,1787629512.758,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0008,EdgeSync Local,local,True,1.551,0.153,0.0,0.153,1787629512.759,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0009,EdgeSync Local,local,True,1.455,0.1,0.0,0.1,1787629512.761,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0010,EdgeSync Local,local,True,2.334,0.32,0.0,0.32,1787629512.763,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0011,EdgeSync Local,local,True,1.593,0.106,0.0,0.106,1787629512.765,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0012,EdgeSync Local,local,True,1.66,0.137,0.0,0.137,1787629512.767,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0013,EdgeSync Local,local,True,1.596,0.083,0.0,0.083,1787629512.768,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0014,EdgeSync Local,local,True,1.474,0.124,0.0,0.124,1787629512.77,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0015,EdgeSync Local,local,True,1.462,0.092,0.0,0.092,1787629512.771,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0016,EdgeSync Local,local,True,1.396,0.123,0.0,0.123,1787629512.772,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0017,EdgeSync Local,local,True,1.551,0.078,0.0,0.078,1787629512.774,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0018,EdgeSync Local,local,True,1.436,0.12,0.0,0.12,1787629512.775,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0019,EdgeSync Local,local,True,1.936,0.129,0.0,0.129,1787629512.777,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0020,EdgeSync Local,local,True,1.587,0.11,0.0,0.11,1787629512.779,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0021,EdgeSync Local,local,True,1.494,0.103,0.0,0.103,1787629512.781,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0022,EdgeSync Local,local,True,1.97,0.203,0.0,0.203,1787629512.783,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0023,EdgeSync Local,local,True,2.403,0.128,0.0,0.128,1787629512.785,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0024,EdgeSync Local,local,True,1.683,0.101,0.0,0.101,1787629512.787,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0025,EdgeSync Local,local,True,1.449,0.098,0.0,0.098,1787629512.788,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0026,EdgeSync Local,local,True,1.749,0.137,0.0,0.137,1787629512.79,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0027,EdgeSync Local,local,True,1.4,0.055,0.0,0.055,1787629512.791,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0028,EdgeSync Local,local,True,1.967,0.128,0.0,0.128,1787629512.793,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0029,EdgeSync Local,local,True,1.78,0.16,0.0,0.16,1787629512.795,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0030,EdgeSync Local,local,True,1.438,0.128,0.0,0.128,1787629512.796,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0031,EdgeSync Local,local,True,1.45,0.092,0.0,0.092,1787629512.798,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0032,EdgeSync Local,local,True,1.887,0.149,0.0,0.149,1787629512.8,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0033,EdgeSync Local,local,True,1.811,0.117,0.0,0.117,1787629512.802,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0034,EdgeSync Local,local,True,1.489,0.098,0.0,0.098,1787629512.803,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0035,EdgeSync Local,local,True,1.308,0.108,0.0,0.108,1787629512.804,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0036,EdgeSync Local,local,True,2.027,0.144,0.0,0.144,1787629512.807,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0037,EdgeSync Local,local,True,1.929,0.116,0.0,0.116,1787629512.808,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0038,EdgeSync Local,local,True,1.748,0.15,0.0,0.15,1787629512.81,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0039,EdgeSync Local,local,True,1.422,0.098,0.0,0.098,1787629512.812,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0040,EdgeSync Local,local,True,1.433,0.095,0.0,0.095,1787629512.813,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0041,EdgeSync Local,local,True,1.628,0.193,0.0,0.193,1787629512.815,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0042,EdgeSync Local,local,True,1.728,0.107,0.0,0.107,1787629512.816,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0043,EdgeSync Local,local,True,1.561,0.099,0.0,0.099,1787629512.818,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0044,EdgeSync Local,local,True,1.664,0.209,0.0,0.209,1787629512.82,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0045,EdgeSync Local,local,True,1.666,0.195,0.0,0.195,1787629512.821,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0046,EdgeSync Local,local,True,1.609,0.105,0.0,0.105,1787629512.823,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0047,EdgeSync Local,local,True,2.331,0.161,0.0,0.161,1787629512.825,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0048,EdgeSync Local,local,True,2.357,0.116,0.0,0.116,1787629512.828,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0049,EdgeSync Local,local,True,2.138,0.106,0.0,0.106,1787629512.83,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0050,EdgeSync Local,local,True,2.008,0.167,0.0,0.167,1787629512.832,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0051,EdgeSync Local,local,True,1.797,0.144,0.0,0.144,1787629512.834,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0052,EdgeSync Local,local,True,1.347,0.098,0.0,0.098,1787629512.835,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0053,EdgeSync Local,local,True,1.642,0.177,0.0,0.177,1787629512.837,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0054,EdgeSync Local,local,True,1.96,0.163,0.0,0.163,1787629512.839,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0055,EdgeSync Local,local,True,1.574,0.183,0.0,0.183,1787629512.84,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0056,EdgeSync Local,local,True,1.789,0.098,0.0,0.098,1787629512.842,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0057,EdgeSync Local,local,True,2.716,0.151,0.0,0.151,1787629512.845,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0058,EdgeSync Local,local,True,1.744,0.103,0.0,0.103,1787629512.847,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0059,EdgeSync Local,local,True,1.297,0.099,0.0,0.099,1787629512.848,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0060,EdgeSync Local,local,True,1.786,0.112,0.0,0.112,1787629512.85,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0061,EdgeSync Local,local,True,1.561,0.1,0.0,0.1,1787629512.851,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0062,EdgeSync Local,local,True,1.387,0.098,0.0,0.098,1787629512.853,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0063,EdgeSync Local,local,True,1.786,0.117,0.0,0.117,1787629512.854,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0064,EdgeSync Local,local,True,1.69,0.148,0.0,0.148,1787629512.856,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0065,EdgeSync Local,local,True,1.302,0.049,0.0,0.049,1787629512.858,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0066,EdgeSync Local,local,True,2.12,0.146,0.0,0.146,1787629512.86,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0067,EdgeSync Local,local,True,2.483,0.094,0.0,0.094,1787629512.862,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0068,EdgeSync Local,local,True,1.994,0.144,0.0,0.144,1787629512.864,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0069,EdgeSync Local,local,True,1.522,0.098,0.0,0.098,1787629512.866,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0070,EdgeSync Local,local,True,1.732,0.092,0.0,0.092,1787629512.867,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0071,EdgeSync Local,local,True,2.09,0.103,0.0,0.103,1787629512.87,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0072,EdgeSync Local,local,True,1.252,0.095,0.0,0.095,1787629512.871,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0073,EdgeSync Local,local,True,1.187,0.086,0.0,0.086,1787629512.872,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0074,EdgeSync Local,local,True,1.822,0.154,0.0,0.154,1787629512.874,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0075,EdgeSync Local,local,True,1.877,0.1,0.0,0.1,1787629512.876,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0076,EdgeSync Local,local,True,1.44,0.138,0.0,0.138,1787629512.877,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0077,EdgeSync Local,local,True,1.524,0.248,0.0,0.248,1787629512.879,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0078,EdgeSync Local,local,True,1.407,0.187,0.0,0.187,1787629512.88,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0079,EdgeSync Local,local,True,1.531,0.09,0.0,0.09,1787629512.882,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0080,EdgeSync Local,local,True,2.09,0.099,0.0,0.099,1787629512.884,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0081,EdgeSync Local,local,True,2.297,0.254,0.0,0.254,1787629512.886,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0082,EdgeSync Local,local,True,1.511,0.172,0.0,0.172,1787629512.888,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0083,EdgeSync Local,local,True,1.546,0.103,0.0,0.103,1787629512.889,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0084,EdgeSync Local,local,True,1.998,0.104,0.0,0.104,1787629512.891,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0085,EdgeSync Local,local,True,1.307,0.102,0.0,0.102,1787629512.893,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0086,EdgeSync Local,local,True,1.275,0.09,0.0,0.09,1787629512.894,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0087,EdgeSync Local,local,True,2.188,0.332,0.0,0.332,1787629512.896,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0088,EdgeSync Local,local,True,2.027,0.124,0.0,0.124,1787629512.898,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0089,EdgeSync Local,local,True,2.032,0.174,0.0,0.174,1787629512.9,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0090,EdgeSync Local,local,True,1.327,0.059,0.0,0.059,1787629512.901,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0091,EdgeSync Local,local,True,2.199,0.289,0.0,0.289,1787629512.904,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0092,EdgeSync Local,local,True,2.432,0.098,0.0,0.098,1787629512.906,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0093,EdgeSync Local,local,True,2.194,0.096,0.0,0.096,1787629512.908,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0094,EdgeSync Local,local,True,1.717,0.178,0.0,0.178,1787629512.91,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0095,EdgeSync Local,local,True,1.659,0.151,0.0,0.151,1787629512.912,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0096,EdgeSync Local,local,True,1.535,0.133,0.0,0.133,1787629512.913,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0097,EdgeSync Local,local,True,2.106,0.125,0.0,0.125,1787629512.915,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0098,EdgeSync Local,local,True,2.187,0.114,0.0,0.114,1787629512.918,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0099,EdgeSync Local,local,True,1.75,0.099,0.0,0.099,1787629512.919,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0100,EdgeSync Local,local,True,1.725,0.128,0.0,0.128,1787629512.921,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0001,EdgeSync Cross-Region,cross_region,True,3.268,0.073,1.419,0.073,1787629513.189,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0002,EdgeSync Cross-Region,cross_region,True,3.346,0.143,1.627,0.143,1787629513.193,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0003,EdgeSync Cross-Region,cross_region,True,1.664,0.136,0.0,0.136,1787629513.194,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0004,EdgeSync Cross-Region,cross_region,True,1.7,0.145,0.0,0.145,1787629513.196,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0005,EdgeSync Cross-Region,cross_region,True,1.456,0.173,0.0,0.173,1787629513.198,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0006,EdgeSync Cross-Region,cross_region,True,2.689,0.097,1.34,0.097,1787629513.2,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0007,EdgeSync Cross-Region,cross_region,True,3.186,0.118,1.529,0.118,1787629513.203,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0008,EdgeSync Cross-Region,cross_region,True,3.345,0.144,1.575,0.144,1787629513.207,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0009,EdgeSync Cross-Region,cross_region,True,3.007,0.116,1.491,0.116,1787629513.21,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0010,EdgeSync Cross-Region,cross_region,True,1.588,0.146,0.0,0.146,1787629513.211,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0011,EdgeSync Cross-Region,cross_region,True,3.276,0.105,1.56,0.105,1787629513.215,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0012,EdgeSync Cross-Region,cross_region,True,4.133,0.144,2.249,0.144,1787629513.219,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0013,EdgeSync Cross-Region,cross_region,True,3.985,0.12,2.074,0.12,1787629513.223,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0014,EdgeSync Cross-Region,cross_region,True,3.373,0.151,1.487,0.151,1787629513.226,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0015,EdgeSync Cross-Region,cross_region,True,3.497,0.123,1.87,0.123,1787629513.23,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0016,EdgeSync Cross-Region,cross_region,True,3.184,0.144,1.45,0.144,1787629513.233,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0017,EdgeSync Cross-Region,cross_region,True,3.395,0.07,1.69,0.07,1787629513.236,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0018,EdgeSync Cross-Region,cross_region,True,3.089,0.105,1.543,0.105,1787629513.239,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0019,EdgeSync Cross-Region,cross_region,True,3.721,0.202,1.671,0.202,1787629513.243,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0020,EdgeSync Cross-Region,cross_region,True,1.599,0.193,0.0,0.193,1787629513.245,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0021,EdgeSync Cross-Region,cross_region,True,1.473,0.097,0.0,0.097,1787629513.246,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0022,EdgeSync Cross-Region,cross_region,True,1.572,0.16,0.0,0.16,1787629513.248,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0023,EdgeSync Cross-Region,cross_region,True,1.493,0.105,0.0,0.105,1787629513.249,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0024,EdgeSync Cross-Region,cross_region,True,3.402,0.113,1.731,0.113,1787629513.253,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0025,EdgeSync Cross-Region,cross_region,True,1.604,0.116,0.0,0.116,1787629513.254,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0026,EdgeSync Cross-Region,cross_region,True,3.157,0.061,1.468,0.061,1787629513.258,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0027,EdgeSync Cross-Region,cross_region,True,2.803,0.052,1.415,0.052,1787629513.26,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0028,EdgeSync Cross-Region,cross_region,True,1.545,0.139,0.0,0.139,1787629513.262,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0029,EdgeSync Cross-Region,cross_region,True,2.944,0.053,1.451,0.053,1787629513.265,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0030,EdgeSync Cross-Region,cross_region,True,3.532,0.136,1.978,0.136,1787629513.268,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0031,EdgeSync Cross-Region,cross_region,True,2.747,0.106,1.369,0.106,1787629513.271,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0032,EdgeSync Cross-Region,cross_region,True,3.225,0.15,1.539,0.15,1787629513.274,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0033,EdgeSync Cross-Region,cross_region,True,2.77,0.117,1.347,0.117,1787629513.277,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0034,EdgeSync Cross-Region,cross_region,True,3.127,0.1,1.524,0.1,1787629513.28,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0035,EdgeSync Cross-Region,cross_region,True,1.346,0.103,0.0,0.103,1787629513.282,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0036,EdgeSync Cross-Region,cross_region,True,1.724,0.215,0.0,0.215,1787629513.283,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0037,EdgeSync Cross-Region,cross_region,True,1.499,0.108,0.0,0.108,1787629513.285,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0038,EdgeSync Cross-Region,cross_region,True,1.814,0.131,0.0,0.131,1787629513.287,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0039,EdgeSync Cross-Region,cross_region,True,1.424,0.105,0.0,0.105,1787629513.288,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0040,EdgeSync Cross-Region,cross_region,True,2.577,0.093,1.351,0.093,1787629513.291,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0041,EdgeSync Cross-Region,cross_region,True,1.548,0.202,0.0,0.202,1787629513.292,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0042,EdgeSync Cross-Region,cross_region,True,1.281,0.104,0.0,0.104,1787629513.294,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0043,EdgeSync Cross-Region,cross_region,True,2.828,0.108,1.448,0.108,1787629513.297,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0044,EdgeSync Cross-Region,cross_region,True,1.563,0.149,0.0,0.149,1787629513.298,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0045,EdgeSync Cross-Region,cross_region,True,3.449,0.173,1.883,0.173,1787629513.302,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0046,EdgeSync Cross-Region,cross_region,True,2.832,0.096,1.424,0.096,1787629513.304,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0047,EdgeSync Cross-Region,cross_region,True,2.792,0.129,1.258,0.129,1787629513.307,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0048,EdgeSync Cross-Region,cross_region,True,2.928,0.125,1.442,0.125,1787629513.31,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0049,EdgeSync Cross-Region,cross_region,True,1.23,0.114,0.0,0.114,1787629513.311,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0050,EdgeSync Cross-Region,cross_region,True,1.774,0.257,0.0,0.257,1787629513.313,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0051,EdgeSync Cross-Region,cross_region,True,4.285,0.142,2.201,0.142,1787629513.317,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0052,EdgeSync Cross-Region,cross_region,True,1.873,0.303,0.0,0.303,1787629513.319,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0053,EdgeSync Cross-Region,cross_region,True,3.237,0.152,1.635,0.152,1787629513.323,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0054,EdgeSync Cross-Region,cross_region,True,3.444,0.138,1.688,0.138,1787629513.326,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0055,EdgeSync Cross-Region,cross_region,True,1.394,0.1,0.0,0.1,1787629513.327,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0056,EdgeSync Cross-Region,cross_region,True,3.319,0.125,1.715,0.125,1787629513.331,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0057,EdgeSync Cross-Region,cross_region,True,1.947,0.196,0.0,0.196,1787629513.333,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0058,EdgeSync Cross-Region,cross_region,True,3.94,0.158,1.986,0.158,1787629513.337,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0059,EdgeSync Cross-Region,cross_region,True,1.883,0.203,0.0,0.203,1787629513.339,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0060,EdgeSync Cross-Region,cross_region,True,3.227,0.128,1.435,0.128,1787629513.342,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0061,EdgeSync Cross-Region,cross_region,True,1.437,0.097,0.0,0.097,1787629513.343,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0062,EdgeSync Cross-Region,cross_region,True,2.917,0.101,1.345,0.101,1787629513.346,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0063,EdgeSync Cross-Region,cross_region,True,3.57,0.072,1.509,0.072,1787629513.35,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0064,EdgeSync Cross-Region,cross_region,True,3.389,0.149,1.583,0.149,1787629513.353,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0065,EdgeSync Cross-Region,cross_region,True,2.914,0.059,1.294,0.059,1787629513.356,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0066,EdgeSync Cross-Region,cross_region,True,3.396,0.144,1.543,0.144,1787629513.36,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0067,EdgeSync Cross-Region,cross_region,True,4.164,0.362,1.796,0.362,1787629513.364,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0068,EdgeSync Cross-Region,cross_region,True,1.917,0.149,0.0,0.149,1787629513.366,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0069,EdgeSync Cross-Region,cross_region,True,1.887,0.143,0.0,0.143,1787629513.368,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0070,EdgeSync Cross-Region,cross_region,True,1.296,0.1,0.0,0.1,1787629513.369,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0071,EdgeSync Cross-Region,cross_region,True,3.058,0.098,1.653,0.098,1787629513.372,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0072,EdgeSync Cross-Region,cross_region,True,1.578,0.094,0.0,0.094,1787629513.374,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0073,EdgeSync Cross-Region,cross_region,True,2.889,0.102,1.465,0.102,1787629513.376,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0074,EdgeSync Cross-Region,cross_region,True,3.337,0.139,1.768,0.139,1787629513.38,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0075,EdgeSync Cross-Region,cross_region,True,3.257,0.128,1.489,0.128,1787629513.383,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0076,EdgeSync Cross-Region,cross_region,True,1.795,0.154,0.0,0.154,1787629513.385,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0077,EdgeSync Cross-Region,cross_region,True,3.208,0.133,1.666,0.133,1787629513.388,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0078,EdgeSync Cross-Region,cross_region,True,3.181,0.139,1.762,0.139,1787629513.391,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0079,EdgeSync Cross-Region,cross_region,True,2.803,0.062,1.361,0.062,1787629513.394,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0080,EdgeSync Cross-Region,cross_region,True,1.817,0.219,0.0,0.219,1787629513.396,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0081,EdgeSync Cross-Region,cross_region,True,3.092,0.13,1.607,0.13,1787629513.399,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0082,EdgeSync Cross-Region,cross_region,True,1.912,0.137,0.0,0.137,1787629513.401,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0083,EdgeSync Cross-Region,cross_region,True,1.962,0.142,0.0,0.142,1787629513.403,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0084,EdgeSync Cross-Region,cross_region,True,1.582,0.132,0.0,0.132,1787629513.405,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0085,EdgeSync Cross-Region,cross_region,True,1.445,0.106,0.0,0.106,1787629513.406,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0086,EdgeSync Cross-Region,cross_region,True,2.851,0.092,1.469,0.092,1787629513.409,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0087,EdgeSync Cross-Region,cross_region,True,3.068,0.065,1.459,0.065,1787629513.412,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0088,EdgeSync Cross-Region,cross_region,True,3.066,0.122,1.54,0.122,1787629513.415,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0089,EdgeSync Cross-Region,cross_region,True,4.153,0.154,2.468,0.154,1787629513.419,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0090,EdgeSync Cross-Region,cross_region,True,4.605,0.117,2.256,0.117,1787629513.424,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0091,EdgeSync Cross-Region,cross_region,True,1.948,0.156,0.0,0.156,1787629513.426,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0092,EdgeSync Cross-Region,cross_region,True,3.131,0.106,1.709,0.106,1787629513.429,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0093,EdgeSync Cross-Region,cross_region,True,2.834,0.103,1.263,0.103,1787629513.432,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0094,EdgeSync Cross-Region,cross_region,True,1.529,0.124,0.0,0.124,1787629513.433,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0095,EdgeSync Cross-Region,cross_region,True,3.225,0.154,1.572,0.154,1787629513.436,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0096,EdgeSync Cross-Region,cross_region,True,3.127,0.131,1.539,0.131,1787629513.44,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0097,EdgeSync Cross-Region,cross_region,True,4.481,0.196,2.31,0.196,1787629513.444,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0098,EdgeSync Cross-Region,cross_region,True,3.334,0.121,1.638,0.121,1787629513.447,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0099,EdgeSync Cross-Region,cross_region,True,2.033,0.11,0.0,0.11,1787629513.45,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85
+trial_3,req_0100,EdgeSync Cross-Region,cross_region,True,3.568,0.143,1.652,0.143,1787629513.453,391bac7738c3a0b2b302febadd221936aea10b92f26bda6cc3dd048b4dd7ff85

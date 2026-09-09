@@ -1,0 +1,69 @@
+experiment,sub_category,condition,N,mean_ms,std_ms,median_ms,p50_ms,p90_ms,p95_ms,p99_ms,success_rate_pct,throughput_rps,source_files
+Controlled Latency,Zero-Delay Loopback,Centralized,300,1.406,0.236,1.352,1.352,1.685,1.856,2.251,100.0,N/A (Sequential),results/smoke_test/controlled_latency/trial_1..3_raw.csv
+Controlled Latency,Zero-Delay Loopback,EdgeSync Cross-Region,300,2.68,0.883,2.929,2.929,3.638,3.936,4.527,100.0,N/A (Sequential),results/smoke_test/controlled_latency/trial_1..3_raw.csv
+Controlled Latency,Zero-Delay Loopback,EdgeSync Local,300,1.674,0.403,1.609,1.609,2.077,2.269,2.665,100.0,N/A (Sequential),results/smoke_test/controlled_latency/trial_1..3_raw.csv
+Locality Sensitivity,Locality_L90,L90_Centralized,300,4.142,0.801,4.194,4.194,4.853,5.163,6.06,100.0,N/A (Sequential),results/locality/raw/L90_trial1..3.csv
+Locality Sensitivity,Locality_L90,L90_EdgeSync,300,5.209,1.726,4.74,4.74,7.932,9.578,10.76,100.0,N/A (Sequential),results/locality/raw/L90_trial1..3.csv
+Locality Sensitivity,Locality_L70,L70_Centralized,300,4.109,0.722,4.204,4.204,4.822,5.047,5.649,100.0,N/A (Sequential),results/locality/raw/L70_trial1..3.csv
+Locality Sensitivity,Locality_L70,L70_EdgeSync,300,6.328,2.368,5.215,5.215,10.033,10.719,11.912,100.0,N/A (Sequential),results/locality/raw/L70_trial1..3.csv
+Locality Sensitivity,Locality_L50,L50_Centralized,300,4.252,0.944,4.274,4.274,4.957,5.274,6.682,100.0,N/A (Sequential),results/locality/raw/L50_trial1..3.csv
+Locality Sensitivity,Locality_L50,L50_EdgeSync,300,7.643,2.553,7.973,7.973,10.925,11.555,11.921,100.0,N/A (Sequential),results/locality/raw/L50_trial1..3.csv
+Locality Sensitivity,Locality_L30,L30_Centralized,300,4.277,0.935,4.303,4.303,4.948,5.316,6.603,100.0,N/A (Sequential),results/locality/raw/L30_trial1..3.csv
+Locality Sensitivity,Locality_L30,L30_EdgeSync,300,8.929,2.651,9.73,9.73,11.615,12.41,14.123,100.0,N/A (Sequential),results/locality/raw/L30_trial1..3.csv
+Locality Sensitivity,Locality_L10,L10_Centralized,300,4.163,0.657,4.229,4.229,4.908,5.063,5.618,100.0,N/A (Sequential),results/locality/raw/L10_trial1..3.csv
+Locality Sensitivity,Locality_L10,L10_EdgeSync,300,9.901,1.929,10.148,10.148,11.737,12.276,14.296,100.0,N/A (Sequential),results/locality/raw/L10_trial1..3.csv
+Network Sensitivity,L90_0ms,L90_0ms_Centralized,300,1.427,0.28,1.341,1.341,1.827,1.996,2.47,100.0,N/A (Sequential),results/network_sensitivity/raw/L90_0ms_trial1..3.csv
+Network Sensitivity,L90_0ms,L90_0ms_EdgeSync,300,1.768,0.667,1.551,1.551,2.833,3.069,3.414,100.0,N/A (Sequential),results/network_sensitivity/raw/L90_0ms_trial1..3.csv
+Network Sensitivity,L90_5ms,L90_5ms_Centralized,300,1.37,0.238,1.302,1.302,1.588,1.793,2.448,100.0,N/A (Sequential),results/network_sensitivity/raw/L90_5ms_trial1..3.csv
+Network Sensitivity,L90_5ms,L90_5ms_EdgeSync,300,2.312,2.205,1.577,1.577,3.365,8.875,9.157,100.0,N/A (Sequential),results/network_sensitivity/raw/L90_5ms_trial1..3.csv
+Network Sensitivity,L90_10ms,L90_10ms_Centralized,300,1.396,0.308,1.292,1.292,1.743,2.093,2.642,100.0,N/A (Sequential),results/network_sensitivity/raw/L90_10ms_trial1..3.csv
+Network Sensitivity,L90_10ms,L90_10ms_EdgeSync,300,3.023,3.776,1.729,1.729,4.215,14.137,15.178,100.0,N/A (Sequential),results/network_sensitivity/raw/L90_10ms_trial1..3.csv
+Network Sensitivity,L90_20ms,L90_20ms_Centralized,300,1.335,0.179,1.293,1.293,1.529,1.753,1.917,100.0,N/A (Sequential),results/network_sensitivity/raw/L90_20ms_trial1..3.csv
+Network Sensitivity,L90_20ms,L90_20ms_EdgeSync,300,3.949,6.812,1.681,1.681,4.719,24.185,24.794,100.0,N/A (Sequential),results/network_sensitivity/raw/L90_20ms_trial1..3.csv
+Network Sensitivity,L90_50ms,L90_50ms_Centralized,300,1.409,0.372,1.297,1.297,1.669,1.943,3.154,100.0,N/A (Sequential),results/network_sensitivity/raw/L90_50ms_trial1..3.csv
+Network Sensitivity,L90_50ms,L90_50ms_EdgeSync,300,7.032,15.859,1.714,1.714,8.463,54.488,55.038,100.0,N/A (Sequential),results/network_sensitivity/raw/L90_50ms_trial1..3.csv
+Network Sensitivity,L50_0ms,L50_0ms_Centralized,300,1.328,0.143,1.292,1.292,1.502,1.617,1.785,100.0,N/A (Sequential),results/network_sensitivity/raw/L50_0ms_trial1..3.csv
+Network Sensitivity,L50_0ms,L50_0ms_EdgeSync,300,2.578,0.991,2.901,2.901,3.573,3.848,5.943,100.0,N/A (Sequential),results/network_sensitivity/raw/L50_0ms_trial1..3.csv
+Network Sensitivity,L50_5ms,L50_5ms_Centralized,300,1.437,0.247,1.362,1.362,1.739,1.911,2.36,100.0,N/A (Sequential),results/network_sensitivity/raw/L50_5ms_trial1..3.csv
+Network Sensitivity,L50_5ms,L50_5ms_EdgeSync,300,5.571,3.728,5.614,5.614,9.57,9.739,10.139,100.0,N/A (Sequential),results/network_sensitivity/raw/L50_5ms_trial1..3.csv
+Network Sensitivity,L50_10ms,L50_10ms_Centralized,300,1.497,0.381,1.372,1.372,1.864,2.151,2.937,100.0,N/A (Sequential),results/network_sensitivity/raw/L50_10ms_trial1..3.csv
+Network Sensitivity,L50_10ms,L50_10ms_EdgeSync,300,8.087,6.252,8.104,8.104,14.56,14.815,15.136,100.0,N/A (Sequential),results/network_sensitivity/raw/L50_10ms_trial1..3.csv
+Network Sensitivity,L50_20ms,L50_20ms_Centralized,300,1.376,0.197,1.327,1.327,1.598,1.724,2.205,100.0,N/A (Sequential),results/network_sensitivity/raw/L50_20ms_trial1..3.csv
+Network Sensitivity,L50_20ms,L50_20ms_EdgeSync,300,13.131,11.318,13.54,13.54,24.661,24.807,25.308,100.0,N/A (Sequential),results/network_sensitivity/raw/L50_20ms_trial1..3.csv
+Network Sensitivity,L50_50ms,L50_50ms_Centralized,300,1.453,0.289,1.371,1.371,1.809,2.02,2.605,100.0,N/A (Sequential),results/network_sensitivity/raw/L50_50ms_trial1..3.csv
+Network Sensitivity,L50_50ms,L50_50ms_EdgeSync,300,28.268,26.388,28.426,28.426,54.993,55.2,55.496,100.0,N/A (Sequential),results/network_sensitivity/raw/L50_50ms_trial1..3.csv
+Network Sensitivity,L10_0ms,L10_0ms_Centralized,300,1.381,0.177,1.345,1.345,1.615,1.72,2.005,100.0,N/A (Sequential),results/network_sensitivity/raw/L10_0ms_trial1..3.csv
+Network Sensitivity,L10_0ms,L10_0ms_EdgeSync,300,3.361,0.588,3.435,3.435,3.881,4.05,4.64,100.0,N/A (Sequential),results/network_sensitivity/raw/L10_0ms_trial1..3.csv
+Network Sensitivity,L10_5ms,L10_5ms_Centralized,300,1.432,0.207,1.38,1.38,1.72,1.852,2.037,100.0,N/A (Sequential),results/network_sensitivity/raw/L10_5ms_trial1..3.csv
+Network Sensitivity,L10_5ms,L10_5ms_EdgeSync,300,8.622,2.272,9.196,9.196,9.836,10.125,11.64,100.0,N/A (Sequential),results/network_sensitivity/raw/L10_5ms_trial1..3.csv
+Network Sensitivity,L10_10ms,L10_10ms_Centralized,300,1.762,0.739,1.514,1.514,2.429,3.965,4.45,100.0,N/A (Sequential),results/network_sensitivity/raw/L10_10ms_trial1..3.csv
+Network Sensitivity,L10_10ms,L10_10ms_EdgeSync,300,13.217,3.775,14.369,14.369,14.943,15.161,15.885,100.0,N/A (Sequential),results/network_sensitivity/raw/L10_10ms_trial1..3.csv
+Network Sensitivity,L10_20ms,L10_20ms_Centralized,300,1.442,0.209,1.385,1.385,1.76,1.88,2.147,100.0,N/A (Sequential),results/network_sensitivity/raw/L10_20ms_trial1..3.csv
+Network Sensitivity,L10_20ms,L10_20ms_EdgeSync,300,22.23,6.774,24.386,24.386,24.978,25.246,25.605,100.0,N/A (Sequential),results/network_sensitivity/raw/L10_20ms_trial1..3.csv
+Network Sensitivity,L10_50ms,L10_50ms_Centralized,300,1.526,0.373,1.413,1.413,1.926,2.346,3.011,100.0,N/A (Sequential),results/network_sensitivity/raw/L10_50ms_trial1..3.csv
+Network Sensitivity,L10_50ms,L10_50ms_EdgeSync,300,49.431,15.821,54.567,54.567,55.312,55.457,55.657,100.0,N/A (Sequential),results/network_sensitivity/raw/L10_50ms_trial1..3.csv
+Scalability & Concurrency,C=1,centralized_c1,300,2.354,1.575,2.155,2.155,2.63,2.906,3.611,100.0,433.39,results/scalability/raw/centralized_c1_trial1..3.csv
+Scalability & Concurrency,C=2,centralized_c2,300,3.36,2.173,2.848,2.848,4.381,5.121,8.69,100.0,601.59,results/scalability/raw/centralized_c2_trial1..3.csv
+Scalability & Concurrency,C=4,centralized_c4,300,6.892,2.944,6.692,6.692,9.131,9.693,11.813,100.0,592.57,results/scalability/raw/centralized_c4_trial1..3.csv
+Scalability & Concurrency,C=8,centralized_c8,300,13.444,3.772,12.881,12.881,17.75,19.35,23.989,100.0,596.73,results/scalability/raw/centralized_c8_trial1..3.csv
+Scalability & Concurrency,C=16,centralized_c16,300,22.039,6.058,21.661,21.661,29.719,32.144,34.521,100.0,669.85,results/scalability/raw/centralized_c16_trial1..3.csv
+Scalability & Concurrency,C=32,centralized_c32,300,33.342,13.54,32.73,32.73,50.659,54.161,71.175,100.0,600.12,results/scalability/raw/centralized_c32_trial1..3.csv
+Scalability & Concurrency,C=64,centralized_c64,300,37.544,13.856,37.186,37.186,55.658,60.285,71.237,100.0,560.99,results/scalability/raw/centralized_c64_trial1..3.csv
+Scalability & Concurrency,C=1,edgesync_local_c1,300,2.649,1.966,2.385,2.385,2.98,3.25,3.902,100.0,393.08,results/scalability/raw/edgesync_local_c1_trial1..3.csv
+Scalability & Concurrency,C=2,edgesync_local_c2,300,3.809,2.366,3.213,3.213,5.291,6.476,12.102,100.0,558.21,results/scalability/raw/edgesync_local_c2_trial1..3.csv
+Scalability & Concurrency,C=4,edgesync_local_c4,300,7.135,2.186,6.867,6.867,9.609,10.831,13.416,100.0,569.25,results/scalability/raw/edgesync_local_c4_trial1..3.csv
+Scalability & Concurrency,C=8,edgesync_local_c8,300,12.445,3.52,12.127,12.127,16.922,18.394,21.269,100.0,649.56,results/scalability/raw/edgesync_local_c8_trial1..3.csv
+Scalability & Concurrency,C=16,edgesync_local_c16,300,23.082,7.39,22.381,22.381,32.487,34.97,42.54,100.0,622.81,results/scalability/raw/edgesync_local_c16_trial1..3.csv
+Scalability & Concurrency,C=32,edgesync_local_c32,300,37.236,15.578,36.062,36.062,56.668,63.447,80.391,100.0,548.01,results/scalability/raw/edgesync_local_c32_trial1..3.csv
+Scalability & Concurrency,C=64,edgesync_local_c64,300,37.659,14.777,36.862,36.862,55.668,61.934,77.981,100.0,514.81,results/scalability/raw/edgesync_local_c64_trial1..3.csv
+Scalability & Concurrency,C=1,edgesync_remote_c1,300,6.001,1.396,5.837,5.837,6.92,7.334,9.044,100.0,167.64,results/scalability/raw/edgesync_remote_c1_trial1..3.csv
+Scalability & Concurrency,C=2,edgesync_remote_c2,300,8.988,1.155,9.001,9.001,10.359,10.932,11.763,100.0,224.55,results/scalability/raw/edgesync_remote_c2_trial1..3.csv
+Scalability & Concurrency,C=4,edgesync_remote_c4,300,14.119,3.056,14.394,14.394,17.336,17.914,20.222,100.0,291.36,results/scalability/raw/edgesync_remote_c4_trial1..3.csv
+Scalability & Concurrency,C=8,edgesync_remote_c8,300,25.45,5.722,25.502,25.502,32.475,34.239,37.277,100.0,321.87,results/scalability/raw/edgesync_remote_c8_trial1..3.csv
+Scalability & Concurrency,C=16,edgesync_remote_c16,300,46.244,8.785,46.791,46.791,53.498,58.291,66.882,100.0,341.04,results/scalability/raw/edgesync_remote_c16_trial1..3.csv
+Scalability & Concurrency,C=32,edgesync_remote_c32,300,88.534,39.585,86.182,86.182,140.313,177.208,226.063,100.0,322.75,results/scalability/raw/edgesync_remote_c32_trial1..3.csv
+Scalability & Concurrency,C=64,edgesync_remote_c64,300,121.164,59.413,99.803,99.803,207.273,214.769,220.515,100.0,288.01,results/scalability/raw/edgesync_remote_c64_trial1..3.csv
+Fault Tolerance (Valid Subset),scenario_0_baseline,Scenario 0 (Control Baseline),600,2.629,0.896,2.788,2.788,3.715,3.909,4.323,100.0,N/A (Timeline),"scenario_0_baseline_trial1.csv, scenario_0_baseline_trial2.csv, scenario_0_baseline_trial3.csv"
+Fault Tolerance (Valid Subset),scenario_1_peer_crash,Scenario 1 (Peer Process Crash),600,513.882,886.282,2.849,2.849,2049.688,2056.552,2063.95,100.0,N/A (Timeline),"scenario_1_peer_crash_trial1.csv, scenario_1_peer_crash_trial2.csv, scenario_1_peer_crash_trial3.csv"
+Fault Tolerance (Valid Subset),scenario_2_peer_unavailable,Scenario 2 (Peer Unavailability - Trials 1 & 2),400,513.643,886.145,3.016,3.016,2046.389,2054.992,2061.303,100.0,N/A (Timeline),"scenario_2_peer_unavailable_trial1.csv, scenario_2_peer_unavailable_trial2.csv"
+Fault Tolerance (Valid Subset),scenario_6_node_recovery,Scenario 6 (Node Recovery - Trials 2 & 3),400,513.987,886.185,3.219,3.219,2046.48,2055.261,2062.931,100.0,N/A (Timeline),"scenario_6_node_recovery_trial2.csv, scenario_6_node_recovery_trial3.csv"

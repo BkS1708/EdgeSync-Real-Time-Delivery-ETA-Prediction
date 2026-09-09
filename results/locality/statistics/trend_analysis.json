@@ -1,0 +1,93 @@
+{
+  "locality_levels": [
+    {
+      "locality": "L90",
+      "local_percentage": 90,
+      "edgesync_p50_ms": 4.74,
+      "edgesync_p95_ms": 9.573,
+      "edgesync_p99_ms": 10.758,
+      "centralized_p50_ms": 4.19
+    },
+    {
+      "locality": "L70",
+      "local_percentage": 70,
+      "edgesync_p50_ms": 5.203,
+      "edgesync_p95_ms": 10.718,
+      "edgesync_p99_ms": 11.911,
+      "centralized_p50_ms": 4.203
+    },
+    {
+      "locality": "L50",
+      "local_percentage": 50,
+      "edgesync_p50_ms": 7.924,
+      "edgesync_p95_ms": 11.555,
+      "edgesync_p99_ms": 11.92,
+      "centralized_p50_ms": 4.273
+    },
+    {
+      "locality": "L30",
+      "local_percentage": 30,
+      "edgesync_p50_ms": 9.72,
+      "edgesync_p95_ms": 12.41,
+      "edgesync_p99_ms": 14.123,
+      "centralized_p50_ms": 4.296
+    },
+    {
+      "locality": "L10",
+      "local_percentage": 10,
+      "edgesync_p50_ms": 10.147,
+      "edgesync_p95_ms": 12.276,
+      "edgesync_p99_ms": 14.296,
+      "centralized_p50_ms": 4.229
+    }
+  ],
+  "spearman_rank_correlation": {
+    "variable_1": "local_request_percentage",
+    "variable_2": "edgesync_p50_latency",
+    "spearman_rho": -1.0,
+    "p_value": 0.0,
+    "interpretation": "Strong inverse monotonic relationship between locality percentage and EdgeSync latency"
+  },
+  "communication_overhead_summary": {
+    "L90": {
+      "local_percentage": 90,
+      "remote_request_percentage": 10,
+      "mean_inter_service_network_latency_ms": 0.476,
+      "p50_inter_service_network_latency_ms": 0.0,
+      "total_inter_service_network_time_ms": 142.867,
+      "payload_bytes_instrumented": "NOT INSTRUMENTED"
+    },
+    "L70": {
+      "local_percentage": 70,
+      "remote_request_percentage": 30,
+      "mean_inter_service_network_latency_ms": 1.404,
+      "p50_inter_service_network_latency_ms": 0.0,
+      "total_inter_service_network_time_ms": 421.051,
+      "payload_bytes_instrumented": "NOT INSTRUMENTED"
+    },
+    "L50": {
+      "local_percentage": 50,
+      "remote_request_percentage": 50,
+      "mean_inter_service_network_latency_ms": 2.339,
+      "p50_inter_service_network_latency_ms": 0.0,
+      "total_inter_service_network_time_ms": 701.694,
+      "payload_bytes_instrumented": "NOT INSTRUMENTED"
+    },
+    "L30": {
+      "local_percentage": 30,
+      "remote_request_percentage": 70,
+      "mean_inter_service_network_latency_ms": 3.468,
+      "p50_inter_service_network_latency_ms": 4.442,
+      "total_inter_service_network_time_ms": 1040.492,
+      "payload_bytes_instrumented": "NOT INSTRUMENTED"
+    },
+    "L10": {
+      "local_percentage": 10,
+      "remote_request_percentage": 90,
+      "mean_inter_service_network_latency_ms": 4.401,
+      "p50_inter_service_network_latency_ms": 4.768,
+      "total_inter_service_network_time_ms": 1320.179,
+      "payload_bytes_instrumented": "NOT INSTRUMENTED"
+    }
+  }
+}

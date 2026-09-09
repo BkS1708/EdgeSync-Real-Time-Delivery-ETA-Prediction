@@ -1,0 +1,9 @@
+{
+  "experiment": "gossip_convergence",
+  "convergence_achieved": true,
+  "convergence_time_seconds": 2.6,
+  "final_state_east": 20.852116962612246,
+  "final_state_west": 20.852116962612246,
+  "final_state_central": 20.852116962612246,
+  "final_divergence": 0.0
+}

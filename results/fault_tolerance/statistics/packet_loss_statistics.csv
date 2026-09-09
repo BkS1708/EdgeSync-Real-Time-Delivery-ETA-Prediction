@@ -1,0 +1,4 @@
+scenario,configured_loss_pct,remote_requests_evaluated,observed_fallback_drops,observed_loss_pct,availability_pct,p50_latency_ms,p95_latency_ms,p99_latency_ms
+scenario_4_loss_1pct,1.0,150,0,0.0,100.0,25.332,32.922,42.043
+scenario_4_loss_5pct,5.0,150,0,0.0,100.0,26.04,36.93,45.58
+scenario_4_loss_10pct,10.0,150,0,0.0,100.0,24.61,35.379,37.842

@@ -1,0 +1,169 @@
+{
+  "locality_trends": {
+    "L90": {
+      "local_percentage": 90,
+      "remote_percentage": 10,
+      "p50_by_delay": {
+        "0ms": 1.551,
+        "5ms": 1.575,
+        "10ms": 1.728,
+        "20ms": 1.68,
+        "50ms": 1.714
+      },
+      "p95_by_delay": {
+        "0ms": 3.068,
+        "5ms": 8.875,
+        "10ms": 14.136,
+        "20ms": 24.184,
+        "50ms": 54.488
+      },
+      "p99_by_delay": {
+        "0ms": 3.405,
+        "5ms": 9.157,
+        "10ms": 15.177,
+        "20ms": 24.791,
+        "50ms": 55.037
+      },
+      "linear_regression": {
+        "slope_ms_per_ms_delay": 0.0027,
+        "intercept_ms": 1.604,
+        "r_squared": 0.4291,
+        "p_value": 0.23020992380890784,
+        "theoretical_slope_expected": 0.1
+      },
+      "spearman_rank_correlation": {
+        "rho": 0.7,
+        "p_value": 0.1881204043741873
+      }
+    },
+    "L50": {
+      "local_percentage": 50,
+      "remote_percentage": 50,
+      "p50_by_delay": {
+        "0ms": 2.89,
+        "5ms": 2.716,
+        "10ms": 2.587,
+        "20ms": 3.303,
+        "50ms": 3.09
+      },
+      "p95_by_delay": {
+        "0ms": 3.847,
+        "5ms": 9.739,
+        "10ms": 14.814,
+        "20ms": 24.806,
+        "50ms": 55.199
+      },
+      "p99_by_delay": {
+        "0ms": 5.943,
+        "5ms": 10.139,
+        "10ms": 15.134,
+        "20ms": 25.308,
+        "50ms": 55.495
+      },
+      "linear_regression": {
+        "slope_ms_per_ms_delay": 0.0076,
+        "intercept_ms": 2.7876,
+        "r_squared": 0.2793,
+        "p_value": 0.359917797334685,
+        "theoretical_slope_expected": 0.5
+      },
+      "spearman_rank_correlation": {
+        "rho": 0.5,
+        "p_value": 0.3910022189557703
+      }
+    },
+    "L10": {
+      "local_percentage": 10,
+      "remote_percentage": 90,
+      "p50_by_delay": {
+        "0ms": 3.432,
+        "5ms": 9.194,
+        "10ms": 14.366,
+        "20ms": 24.385,
+        "50ms": 54.564
+      },
+      "p95_by_delay": {
+        "0ms": 4.05,
+        "5ms": 10.124,
+        "10ms": 15.161,
+        "20ms": 25.246,
+        "50ms": 55.457
+      },
+      "p99_by_delay": {
+        "0ms": 4.64,
+        "5ms": 11.638,
+        "10ms": 15.881,
+        "20ms": 25.604,
+        "50ms": 55.656
+      },
+      "linear_regression": {
+        "slope_ms_per_ms_delay": 1.0155,
+        "intercept_ms": 3.9242,
+        "r_squared": 0.9998,
+        "p_value": 1.6472801342827858e-06,
+        "theoretical_slope_expected": 0.9
+      },
+      "spearman_rank_correlation": {
+        "rho": 1.0,
+        "p_value": 1.4042654220543602e-24
+      }
+    }
+  },
+  "calibration_summary": [
+    {
+      "configured_network_delay_ms": 0,
+      "N_remote_observations": 450,
+      "mean_measured_network_latency_ms": 1.656,
+      "p50_measured_network_latency_ms": 1.598,
+      "p95_measured_network_latency_ms": 2.004,
+      "p99_measured_network_latency_ms": 2.992,
+      "stddev_measured_network_latency_ms": 0.263,
+      "difference_from_configured_p50_ms": 1.598,
+      "interpretation": "Configured 0ms + ~1.60ms loopback REST baseline"
+    },
+    {
+      "configured_network_delay_ms": 5,
+      "N_remote_observations": 450,
+      "mean_measured_network_latency_ms": 7.268,
+      "p50_measured_network_latency_ms": 7.232,
+      "p95_measured_network_latency_ms": 7.786,
+      "p99_measured_network_latency_ms": 8.532,
+      "stddev_measured_network_latency_ms": 0.299,
+      "difference_from_configured_p50_ms": 2.232,
+      "interpretation": "Configured 5ms + ~2.23ms loopback REST baseline"
+    },
+    {
+      "configured_network_delay_ms": 10,
+      "N_remote_observations": 450,
+      "mean_measured_network_latency_ms": 12.344,
+      "p50_measured_network_latency_ms": 12.306,
+      "p95_measured_network_latency_ms": 12.844,
+      "p99_measured_network_latency_ms": 13.54,
+      "stddev_measured_network_latency_ms": 0.329,
+      "difference_from_configured_p50_ms": 2.306,
+      "interpretation": "Configured 10ms + ~2.31ms loopback REST baseline"
+    },
+    {
+      "configured_network_delay_ms": 20,
+      "N_remote_observations": 450,
+      "mean_measured_network_latency_ms": 22.392,
+      "p50_measured_network_latency_ms": 22.351,
+      "p95_measured_network_latency_ms": 22.934,
+      "p99_measured_network_latency_ms": 23.25,
+      "stddev_measured_network_latency_ms": 0.27,
+      "difference_from_configured_p50_ms": 2.351,
+      "interpretation": "Configured 20ms + ~2.35ms loopback REST baseline"
+    },
+    {
+      "configured_network_delay_ms": 50,
+      "N_remote_observations": 450,
+      "mean_measured_network_latency_ms": 52.464,
+      "p50_measured_network_latency_ms": 52.425,
+      "p95_measured_network_latency_ms": 53.014,
+      "p99_measured_network_latency_ms": 53.387,
+      "stddev_measured_network_latency_ms": 0.284,
+      "difference_from_configured_p50_ms": 2.425,
+      "interpretation": "Configured 50ms + ~2.42ms loopback REST baseline"
+    }
+  ]
+}

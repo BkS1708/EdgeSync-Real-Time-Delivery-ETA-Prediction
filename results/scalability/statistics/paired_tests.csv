@@ -1,0 +1,15 @@
+concurrency,comparison,arch_a,arch_b,p50_a_ms,p50_b_ms,p95_a_ms,p95_b_ms,abs_p50_diff_ms,rel_p50_overhead_pct,wilcoxon_stat,raw_p_value,holm_adj_p_value,significant
+1,Centralized vs EdgeSync Local,centralized,edgesync_local,2.155,2.385,2.906,3.25,0.23,10.68,9483.5,5.181555354225744e-18,3.6271e-17,True
+1,Centralized vs EdgeSync Remote,centralized,edgesync_remote,2.155,5.837,2.906,7.334,3.682,170.9,299.0,1.1958633818295675e-49,1.3154e-48,True
+2,Centralized vs EdgeSync Local,centralized,edgesync_local,2.848,3.213,5.121,6.476,0.365,12.82,16087.5,1.6016997521186936e-05,9.6102e-05,True
+2,Centralized vs EdgeSync Remote,centralized,edgesync_remote,2.848,9.001,5.121,10.932,6.153,216.05,635.0,3.24255941316375e-48,2.594e-47,True
+4,Centralized vs EdgeSync Local,centralized,edgesync_local,6.692,6.867,9.693,10.831,0.175,2.61,19254.0,0.02721084795700316,0.0544,False
+4,Centralized vs EdgeSync Remote,centralized,edgesync_remote,6.692,14.394,9.693,17.914,7.702,115.08,631.0,3.1186251999320047e-48,2.8068e-47,True
+8,Centralized vs EdgeSync Local,centralized,edgesync_local,12.881,12.127,19.35,18.394,-0.753,-5.85,17145.0,0.0003050494613985346,0.0012,True
+8,Centralized vs EdgeSync Remote,centralized,edgesync_remote,12.881,25.502,19.35,34.239,12.621,97.99,408.0,3.507489601379771e-49,3.5075e-48,True
+16,Centralized vs EdgeSync Local,centralized,edgesync_local,21.661,22.381,32.144,34.97,0.72,3.33,18791.5,0.011868031019308256,0.0356,True
+16,Centralized vs EdgeSync Remote,centralized,edgesync_remote,21.661,46.791,32.144,58.291,25.13,116.02,24.0,7.7376578735916e-51,9.2852e-50,True
+32,Centralized vs EdgeSync Local,centralized,edgesync_local,32.73,36.062,54.161,63.447,3.332,10.18,16175.5,2.0840000065523423e-05,0.0001,True
+32,Centralized vs EdgeSync Remote,centralized,edgesync_remote,32.73,86.182,54.161,177.208,53.452,163.31,15.0,7.070585846238545e-51,9.1918e-50,True
+64,Centralized vs EdgeSync Local,centralized,edgesync_local,37.186,36.862,60.285,61.934,-0.324,-0.87,21464.0,0.4600163827703794,0.46,False
+64,Centralized vs EdgeSync Remote,centralized,edgesync_remote,37.186,99.803,60.285,214.769,62.617,168.39,12.0,6.861222286651931e-51,9.6057e-50,True

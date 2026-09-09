@@ -1,0 +1,21 @@
+request_id,success,failure_reason,latency,recovery_time
+req_0001,True,Primary regional node unavailable (ConnectTimeout),423.424,0.055
+req_0002,True,Primary regional node unavailable (ConnectTimeout),420.798,0.045
+req_0003,True,Primary regional node unavailable (ConnectTimeout),433.836,0.03
+req_0004,True,Primary regional node unavailable (ConnectTimeout),435.136,0.041
+req_0005,True,Primary regional node unavailable (ConnectTimeout),422.162,0.025
+req_0006,True,Primary regional node unavailable (ConnectTimeout),420.406,0.029
+req_0007,True,Primary regional node unavailable (ConnectTimeout),420.636,0.018
+req_0008,True,Primary regional node unavailable (ConnectTimeout),405.099,0.02
+req_0009,True,Primary regional node unavailable (ConnectTimeout),405.967,0.017
+req_0010,True,Primary regional node unavailable (ConnectTimeout),421.4,0.033
+req_0011,True,Primary regional node unavailable (ConnectTimeout),417.051,0.029
+req_0012,True,Primary regional node unavailable (ConnectTimeout),419.782,0.022
+req_0013,True,Primary regional node unavailable (ConnectTimeout),419.475,0.02
+req_0014,True,Primary regional node unavailable (ConnectTimeout),423.327,0.016
+req_0015,True,Primary regional node unavailable (ConnectTimeout),418.074,0.019
+req_0016,True,Primary regional node unavailable (ConnectTimeout),419.307,0.018
+req_0017,True,Primary regional node unavailable (ConnectTimeout),419.465,0.016
+req_0018,True,Primary regional node unavailable (ConnectTimeout),419.31,0.016
+req_0019,True,Primary regional node unavailable (ConnectTimeout),419.405,0.029
+req_0020,True,Primary regional node unavailable (ConnectTimeout),421.149,0.03

@@ -1,0 +1,200 @@
+{
+  "Centralized": {
+    "N": 20,
+    "region_type": "centralized",
+    "total_latency": {
+      "count": 20,
+      "min": 1.961,
+      "max": 29.062,
+      "mean": 10.978,
+      "median": 4.557,
+      "stddev": 9.645,
+      "p50": 4.557,
+      "p90": 26.925,
+      "p95": 27.921,
+      "p99": 29.062,
+      "ci_95_low": 6.75,
+      "ci_95_high": 15.205
+    },
+    "system_latency": {
+      "count": 20,
+      "min": 0.041,
+      "max": 0.094,
+      "mean": 0.062,
+      "median": 0.061,
+      "stddev": 0.014,
+      "p50": 0.061,
+      "p90": 0.077,
+      "p95": 0.079,
+      "p99": 0.094,
+      "ci_95_low": 0.056,
+      "ci_95_high": 0.069
+    },
+    "network_latency": {
+      "count": 20,
+      "min": 0.0,
+      "max": 0.0,
+      "mean": 0.0,
+      "median": 0.0,
+      "stddev": 0.0,
+      "p50": 0.0,
+      "p90": 0.0,
+      "p95": 0.0,
+      "p99": 0.0,
+      "ci_95_low": 0.0,
+      "ci_95_high": 0.0
+    },
+    "domain_latency": {
+      "count": 20,
+      "min": 0.041,
+      "max": 0.094,
+      "mean": 0.062,
+      "median": 0.061,
+      "stddev": 0.014,
+      "p50": 0.061,
+      "p90": 0.077,
+      "p95": 0.079,
+      "p99": 0.094,
+      "ci_95_low": 0.056,
+      "ci_95_high": 0.069
+    },
+    "decomposition_percentages": {
+      "system_percentage": 0.56,
+      "network_percentage": 0.0,
+      "domain_percentage": 0.56,
+      "client_network_transit_percentage": 99.44
+    }
+  },
+  "EdgeSync Local": {
+    "N": 20,
+    "region_type": "local",
+    "total_latency": {
+      "count": 20,
+      "min": 2.473,
+      "max": 26.649,
+      "mean": 13.804,
+      "median": 15.405,
+      "stddev": 9.812,
+      "p50": 15.405,
+      "p90": 26.223,
+      "p95": 26.484,
+      "p99": 26.649,
+      "ci_95_low": 9.504,
+      "ci_95_high": 18.104
+    },
+    "system_latency": {
+      "count": 20,
+      "min": 0.037,
+      "max": 0.139,
+      "mean": 0.075,
+      "median": 0.068,
+      "stddev": 0.029,
+      "p50": 0.068,
+      "p90": 0.108,
+      "p95": 0.129,
+      "p99": 0.139,
+      "ci_95_low": 0.062,
+      "ci_95_high": 0.087
+    },
+    "network_latency": {
+      "count": 20,
+      "min": 0.0,
+      "max": 0.0,
+      "mean": 0.0,
+      "median": 0.0,
+      "stddev": 0.0,
+      "p50": 0.0,
+      "p90": 0.0,
+      "p95": 0.0,
+      "p99": 0.0,
+      "ci_95_low": 0.0,
+      "ci_95_high": 0.0
+    },
+    "domain_latency": {
+      "count": 20,
+      "min": 0.037,
+      "max": 0.139,
+      "mean": 0.075,
+      "median": 0.068,
+      "stddev": 0.029,
+      "p50": 0.068,
+      "p90": 0.108,
+      "p95": 0.129,
+      "p99": 0.139,
+      "ci_95_low": 0.062,
+      "ci_95_high": 0.087
+    },
+    "decomposition_percentages": {
+      "system_percentage": 0.54,
+      "network_percentage": 0.0,
+      "domain_percentage": 0.54,
+      "client_network_transit_percentage": 99.46
+    }
+  },
+  "EdgeSync Cross-Region": {
+    "N": 20,
+    "region_type": "cross_region",
+    "total_latency": {
+      "count": 20,
+      "min": 3.083,
+      "max": 36.816,
+      "mean": 16.815,
+      "median": 15.741,
+      "stddev": 11.282,
+      "p50": 15.741,
+      "p90": 30.756,
+      "p95": 31.003,
+      "p99": 36.816,
+      "ci_95_low": 11.871,
+      "ci_95_high": 21.759
+    },
+    "system_latency": {
+      "count": 20,
+      "min": 0.046,
+      "max": 0.138,
+      "mean": 0.076,
+      "median": 0.065,
+      "stddev": 0.029,
+      "p50": 0.065,
+      "p90": 0.117,
+      "p95": 0.119,
+      "p99": 0.138,
+      "ci_95_low": 0.063,
+      "ci_95_high": 0.088
+    },
+    "network_latency": {
+      "count": 20,
+      "min": 0.0,
+      "max": 28.16,
+      "mean": 6.856,
+      "median": 3.015,
+      "stddev": 9.517,
+      "p50": 3.015,
+      "p90": 26.327,
+      "p95": 27.057,
+      "p99": 28.16,
+      "ci_95_low": 2.684,
+      "ci_95_high": 11.027
+    },
+    "domain_latency": {
+      "count": 20,
+      "min": 0.046,
+      "max": 0.138,
+      "mean": 0.076,
+      "median": 0.065,
+      "stddev": 0.029,
+      "p50": 0.065,
+      "p90": 0.117,
+      "p95": 0.119,
+      "p99": 0.138,
+      "ci_95_low": 0.063,
+      "ci_95_high": 0.088
+    },
+    "decomposition_percentages": {
+      "system_percentage": 0.45,
+      "network_percentage": 40.77,
+      "domain_percentage": 0.45,
+      "client_network_transit_percentage": 58.78
+    }
+  }
+}
