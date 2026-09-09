@@ -2,7 +2,7 @@
 
 > **Locality-Aware Decentralized Edge Microservices for Low-Latency Spatial Estimation and Fault-Resilient Distributed Routing**
 
-[![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.14-blue.svg)](https://www.python.org/)
+[![Python Version](https://img.shields.io/badge/python-3.12%20%7C%203-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/framework-FastAPI%20%7C%20Streamlit-green.svg)](https://fastapi.tiangolo.com/)
 [![Research Target](https://img.shields.io/badge/research-IEEE%20PerCom%202027-orange.svg)](results/PERCOM_PAPER_BLUEPRINT.md)
 [![Availability](https://img.shields.io/badge/availability-100.0%25%20(Fault--Tolerant)-brightgreen.svg)](results/fault_tolerance/)
