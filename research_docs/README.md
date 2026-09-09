@@ -54,4 +54,4 @@ This directory contains the theoretical foundations, distributed system formalis
 
 - **For Systems Engineers**: Start with [`01_ARCHITECTURE_DEEP_DIVE.md`](01_ARCHITECTURE_DEEP_DIVE.md) and [`IMPLEMENTATION_CHANGELOG.md`](IMPLEMENTATION_CHANGELOG.md).
 - **For Theoretical Computer Scientists**: Read [`DISTRIBUTED_STATE_MODEL.md`](DISTRIBUTED_STATE_MODEL.md) for CRDT convergence and vector clock algebra.
-- **For Research Authors**: Refer to [`FINAL_PERCOM_READINESS_REPORT.md`](FINAL_PERCOM_READINESS_REPORT.md) and the blueprint documents under `results/`.
+- **For Researchers & Authors**: Refer to [`FINAL_PERCOM_READINESS_REPORT.md`](FINAL_PERCOM_READINESS_REPORT.md) and the evaluation reports under `results/`.

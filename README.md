@@ -82,7 +82,7 @@ EdgeSync has undergone rigorous evaluation across $>19,200$ controlled requests 
 | **Locality Delay Shielding** | **Spearman $\rho = -1.0, p < 0.001$** | Median latency shielded ($1.55\text{ ms} \to 1.71\text{ ms}$) under L90 ($N=9,000$) |
 | **Gossip Convergence** | Divergence drops to $0.0$ in **$1.2\text{--}2.6\text{ s}$** | Fully connected topology converges in $<1.2\text{ s}$ |
 
-> See [`results/PERCOM_PAPER_BLUEPRINT.md`](results/PERCOM_PAPER_BLUEPRINT.md) and [`results/PERCOM_CLAIM_EVIDENCE_MATRIX.md`](results/PERCOM_CLAIM_EVIDENCE_MATRIX.md) for full statistical audits and claim verification matrices.
+> See [`results/PERCOM_CLAIM_EVIDENCE_MATRIX.md`](results/PERCOM_CLAIM_EVIDENCE_MATRIX.md) for statistical audits and claim verification matrices.
 
 ---
 
@@ -113,8 +113,7 @@ EdgeSync-ETA/
 │   ├── 00_PROJECT_OVERVIEW.md to 20_FINAL_GAP_SUMMARY.md
 │   └── README.md               # Master taxonomy and research document index
 │
-├── results/                    # Complete empirical data, charts, and PerCom paper artifacts
-│   ├── PERCOM_PAPER_BLUEPRINT.md       # IEEE PerCom 2027 section-by-section drafting guide
+├── results/                    # Complete empirical data, charts, and research artifacts
 │   ├── PERCOM_CLAIM_EVIDENCE_MATRIX.md # Evidence validation matrix for all paper claims
 │   ├── PERCOM_FIGURE_PLAN.md           # Publication figure and chart inventory
 │   ├── figures/                        # High-resolution PNG evaluation figures
@@ -204,26 +203,6 @@ python experiments/validate_results.py
 
 Generated charts and summary tables will be written to `results/` in high-resolution format.
 
----
-
-## 📑 Academic Publication & Citation
-
-This codebase serves as the research prototype and experimental artifact for:
-
-- **Title:** *EdgeSync: Locality-Aware Decentralized Edge Microservices for Low-Latency Spatial Estimation*
-- **Target Venue:** IEEE International Conference on Pervasive Computing and Communications (PerCom)
-- **Author:** Bhavya Sanghrajka ([@BkS1708](https://github.com/BkS1708))
-- **Primary Blueprint:** [`results/PERCOM_PAPER_BLUEPRINT.md`](results/PERCOM_PAPER_BLUEPRINT.md)
-
-If you find this work helpful in your research, please cite:
-```bibtex
-@inproceedings{sanghrajka2027edgesync,
-  title={EdgeSync: Locality-Aware Decentralized Edge Microservices for Low-Latency Spatial Estimation},
-  author={Sanghrajka, Bhavya},
-  booktitle={IEEE International Conference on Pervasive Computing and Communications (PerCom)},
-  year={2027}
-}
-```
 
 ---
 

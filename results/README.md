@@ -4,13 +4,12 @@ This directory stores all empirical data, statistical evaluations, high-resoluti
 
 ---
 
-## 📑 Core IEEE PerCom Publication Blueprint
+## 📑 Empirical Evaluation & Evidence Framework
 
-The following master artifacts form the basis of the IEEE PerCom 2027 paper submission:
+The following master artifacts document the evaluation methodology and data audits:
 
 | Document | Purpose & Key Contents |
 | :--- | :--- |
-| [`PERCOM_PAPER_BLUEPRINT.md`](PERCOM_PAPER_BLUEPRINT.md) | **[PRIMARY DRAFTING GUIDE]** Section-by-section breakdown (Abstract to Conclusion) with exact numbers, equations, and verified narrative arcs. |
 | [`PERCOM_CLAIM_EVIDENCE_MATRIX.md`](PERCOM_CLAIM_EVIDENCE_MATRIX.md) | Strict mapping connecting every paper claim directly to underlying CSV files and p-values. |
 | [`PERCOM_CLAIM_SAFETY_AUDIT.md`](PERCOM_CLAIM_SAFETY_AUDIT.md) | "Safe vs Forbidden" claim audit to protect the submission from reviewer rejection. |
 | [`PERCOM_REVIEWER_ATTACK_ANALYSIS.md`](PERCOM_REVIEWER_ATTACK_ANALYSIS.md) | Comprehensive defense strategy detailing pre-empted reviewer objections and empirical rebuttals. |
