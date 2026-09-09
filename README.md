@@ -202,10 +202,3 @@ python experiments/validate_results.py
 ```
 
 Generated charts and summary tables will be written to `results/` in high-resolution format.
-
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
