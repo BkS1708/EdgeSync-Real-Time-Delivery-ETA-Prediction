@@ -4,9 +4,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/framework-FastAPI%20%7C%20Streamlit-green.svg)](https://fastapi.tiangolo.com/)
-[![Research Target](https://img.shields.io/badge/research-IEEE%20PerCom%202027-orange.svg)](results/PERCOM_PAPER_BLUEPRINT.md)
 [![Availability](https://img.shields.io/badge/availability-100.0%25%20(Fault--Tolerant)-brightgreen.svg)](results/fault_tolerance/)
-[![License](https://img.shields.io/badge/license-MIT-purple.svg)](LICENSE)
 
 ---
 
@@ -25,31 +23,31 @@ EdgeSync tackles this challenge by deploying lightweight, autonomous edge micros
 
 ```mermaid
 flowchart TD
-    subgraph Clients["Ingress & Presentation Layer"]
+    subgraph Clients["Ingress and Presentation Layer"]
         User["Rider / Customer App"]
-        UI["Streamlit Interactive UI\n(:8501)"]
-        User -->|Spatial Queries & Traffic Setting| UI
+        UI["Streamlit Interactive UI<br/>Port 8501"]
+        User -->|Spatial Queries and Traffic Settings| UI
     end
 
-    subgraph EdgeNodes["EdgeSync Microservice Mesh (FastAPI)"]
-        subgraph EastNode["EAST Region Edge (:8000)"]
+    subgraph EdgeNodes["EdgeSync Microservice Mesh - FastAPI"]
+        subgraph EastNode["EAST Region Edge - Port 8000"]
             E_API["REST / ASGI Dispatcher"]
             E_Geo["Spatial Geofence"]
-            E_State["Vector Clock & State Store"]
+            E_State["Vector Clock and State Store"]
             E_Fall["Autonomous Fallback Engine"]
         end
 
-        subgraph WestNode["WEST Region Edge (:9000)"]
+        subgraph WestNode["WEST Region Edge - Port 9000"]
             W_API["REST / ASGI Dispatcher"]
             W_Geo["Spatial Geofence"]
-            W_State["Vector Clock & State Store"]
+            W_State["Vector Clock and State Store"]
             W_Fall["Autonomous Fallback Engine"]
         end
 
-        subgraph CentralNode["CENTRAL Region Edge (:10000)"]
+        subgraph CentralNode["CENTRAL Region Edge - Port 10000"]
             C_API["REST / ASGI Dispatcher"]
             C_Geo["Spatial Geofence"]
-            C_State["Vector Clock & State Store"]
+            C_State["Vector Clock and State Store"]
             C_Fall["Autonomous Fallback Engine"]
         end
     end
@@ -58,9 +56,9 @@ flowchart TD
     UI -->|HTTP /predict| W_API
     UI -->|HTTP /predict| C_API
 
-    E_API <-->|Gossip Synchronization\n(Vector Clocks / Observations)| W_API
-    W_API <-->|Gossip Synchronization\n(Vector Clocks / Observations)| C_API
-    C_API <-->|Gossip Synchronization\n(Vector Clocks / Observations)| E_API
+    E_API <-->|Gossip Protocol| W_API
+    W_API <-->|Gossip Protocol| C_API
+    C_API <-->|Gossip Protocol| E_API
 ```
 
 ### Request Lifecycle & Routing Mechanics
